@@ -1,23 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  -  Automation of citation screening for systematic literature reviews in medicine
-  -  Prompt-based learning for bioNLP
-  -  BigScience [Biomedical](https://github.com/bigscience-workshop/biomedical) working group
-- 🌱 I’m currently reading a lot about Natural Language Processing and Information Retrieval 
+  -  Evaluation, safety and red-teaming of large language models,
+  -  Multi-modal and contextualised machine translation,
+  -  Clinical and biomedical NLP,
+  -  AI for scientific research discovery.
+- 👯 I’m looking to collaborate on [LLM-based literature review tools](https://github.com/ProjectDossier/cruise-screening)
 - 📫 How to reach me: wojciech.kusa@tuwien.ac.at
-
-<!--
-**WojciechKusa/WojciechKusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
